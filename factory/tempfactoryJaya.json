@@ -1,0 +1,9 @@
+{
+	"name": "tempfactoryJaya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3acc899f-2f92-4b77-8458-b257ce0eb3ca",
+		"tenantId": "cd319671-52e7-4a68-afa9-fcf8f89f09ea"
+	}
+}
