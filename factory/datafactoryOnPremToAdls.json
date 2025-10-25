@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryOnPremToAdls",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd0ac90b-c5ce-4065-8342-c96349885651",
+		"tenantId": "cd319671-52e7-4a68-afa9-fcf8f89f09ea"
+	}
+}
